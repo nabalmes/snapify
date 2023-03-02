@@ -1,0 +1,18 @@
+{
+  "/_document": "pages/_document.js",
+  "/_app": "pages/_app.js",
+  "/api/post/[postId]": "pages/api/post/[postId].js",
+  "/api/auth/[...nextauth]": "pages/api/auth/[...nextauth].js",
+  "/api/trending": "pages/api/trending.js",
+  "/api/users/[userId]": "pages/api/users/[userId].js",
+  "/": "pages/index.js",
+  "/search": "pages/search.js",
+  "/api/users": "pages/api/users.js",
+  "/api/post": "pages/api/post.js",
+  "/signin": "pages/signin.js",
+  "/settings": "pages/settings.js",
+  "/user/[username]": "pages/user/[username].js",
+  "/signup": "pages/signup.js",
+  "/_error": "pages/_error.js",
+  "/404": "pages/404.html"
+}
